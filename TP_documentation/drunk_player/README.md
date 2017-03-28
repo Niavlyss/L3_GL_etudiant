@@ -13,7 +13,9 @@ Drunk_player utilise la bibliothèque de traitement d'image OpenCV et est compos
 * Boost
 
 ## Compilation
-`<mkdir>` build
+```
+mkdir build
 **cd** build
 cmake ..
 **make**
+```
